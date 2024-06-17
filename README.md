@@ -45,7 +45,7 @@
   <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="cpp" src=" https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-shah&show_icons=true&locale=en" alt="vedant-shah" /></p>
