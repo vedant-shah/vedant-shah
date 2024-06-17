@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vedantshah2001@gmail.com**
 
-- 📄 Know about my experiences [https://hi-im-vedant.me/Vedant's_Resume.pdf](https://hi-im-vedant.me/Vedant's_Resume.pdf)
+- 📄 Know about my experiences [https://hi-im-vedant.me/Vedant's_Resume.pdf](https://drive.google.com/file/d/1EA-YCHe0n7TZly1B-4VrQj8kDbjdYLhK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +48,6 @@
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-shah&show_icons=true&locale=en" alt="vedant-shah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-shah&show_icons=true&locale=en&layout=compact&theme=gotham" alt="vedant-shah" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vedant-shah&show_icons=true&theme=gotham" alt="vedant shah" />
 
