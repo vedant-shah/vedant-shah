@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=vedant-shah&theme=darkhub" alt="vedant-shah" /></a> </p>
 
-- 👨‍💻 Check out my portfolio website: [https://hi-im-vedant.me/](https://hi-im-vedant.me/)
+- 👨‍💻 Check out my portfolio website: [https://hi-im-vedant.xyz/](https://hi-im-vedant.xyz/)
 
 - 📫 How to reach me **vedantshah2001@gmail.com**
 
