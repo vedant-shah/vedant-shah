@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedant.</h1>
-<h3 align="center">I'm a full stack developer and an Information Science and Engineering Student, based in Bengaluru, India. I build sites and software based on the web.</h3>
+<h3 align="center">I'm a full stack developer, based out of Bengaluru, India. I build sites and software based on the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-shah&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-shah" /> </p>
 
